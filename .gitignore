@@ -160,5 +160,4 @@ cython_debug/
 #.idea/
 
 # FeedData
-ryobi/
-ryobi_trip_update.bin
+uploaded_images/*
